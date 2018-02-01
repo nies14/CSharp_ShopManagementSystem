@@ -1,0 +1,77 @@
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\Employee_Form.exe.config
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\Employee_Form.exe
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\Employee_Form.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\MetroFramework.dll
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\Person.exe
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\Product.exe
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\Profile.exe
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\Server.exe
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\Person.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\Product.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\Profile.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\Server.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.DeliveredForm.resources
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.PendingForm.resources
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.Profile.resources
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.Properties.Resources.resources
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.EditEmployeeInfo.resources
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.EmployeeRoutine.resources
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\obj\Debug\Employee.csproj.GenerateResource.Cache
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.exe
+C:\Users\Nies_14\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.pdb
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\Employee_Form.exe.config
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\Employee_Form.exe
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\Employee_Form.pdb
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\Person.exe
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\Product.exe
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\Profile.exe
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\Person.pdb
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\Product.pdb
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\Profile.pdb
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.DeliveredForm.resources
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.PendingForm.resources
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.Profile.resources
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.Properties.Resources.resources
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.EditEmployeeInfo.resources
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.EmployeeRoutine.resources
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\obj\Debug\Employee.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.exe
+C:\Users\DELL\Desktop\Shop Management\Employee_Form\obj\Debug\Employee_Form.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\Employee_Form.exe.config
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\Employee_Form.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\Employee_Form.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\MetroFramework.Design.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\MetroFramework.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\MetroFramework.Fonts.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\Person.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\Product.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\Profile.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\Server.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\Person.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\Product.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\Profile.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\Server.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\bin\Debug\DevComponents.DotNetBar2.xml
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\obj\Debug\Employee_Form.DeliveredForm.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\obj\Debug\Employee_Form.PendingForm.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\obj\Debug\Employee_Form.Profile.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\obj\Debug\Employee_Form.Properties.Resources.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\obj\Debug\Employee_Form.EditEmployeeInfo.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\obj\Debug\Employee_Form.EmployeeRoutine.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\obj\Debug\Employee.csproj.GenerateResource.Cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\obj\Debug\Employee_Form.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Employee_Form\obj\Debug\Employee_Form.pdb

@@ -1,0 +1,36 @@
+C:\Users\Nies_14\Desktop\Shop Management\Profile\bin\Debug\Profile.exe.config
+C:\Users\Nies_14\Desktop\Shop Management\Profile\bin\Debug\Profile.exe
+C:\Users\Nies_14\Desktop\Shop Management\Profile\bin\Debug\Profile.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Profile\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nies_14\Desktop\Shop Management\Profile\bin\Debug\MetroFramework.dll
+C:\Users\Nies_14\Desktop\Shop Management\Profile\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nies_14\Desktop\Shop Management\Profile\obj\Debug\Profile.Form1.resources
+C:\Users\Nies_14\Desktop\Shop Management\Profile\obj\Debug\Profile.Properties.Resources.resources
+C:\Users\Nies_14\Desktop\Shop Management\Profile\obj\Debug\Profile.csproj.GenerateResource.Cache
+C:\Users\Nies_14\Desktop\Shop Management\Profile\obj\Debug\Profile.exe
+C:\Users\Nies_14\Desktop\Shop Management\Profile\obj\Debug\Profile.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Profile\obj\Debug\Profile.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Shop Management\Profile\bin\Debug\Profile.exe.config
+C:\Users\DELL\Desktop\Shop Management\Profile\bin\Debug\Profile.exe
+C:\Users\DELL\Desktop\Shop Management\Profile\bin\Debug\Profile.pdb
+C:\Users\DELL\Desktop\Shop Management\Profile\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Desktop\Shop Management\Profile\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Desktop\Shop Management\Profile\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Desktop\Shop Management\Profile\obj\Debug\Profile.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Shop Management\Profile\obj\Debug\Profile.Form1.resources
+C:\Users\DELL\Desktop\Shop Management\Profile\obj\Debug\Profile.Properties.Resources.resources
+C:\Users\DELL\Desktop\Shop Management\Profile\obj\Debug\Profile.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Shop Management\Profile\obj\Debug\Profile.exe
+C:\Users\DELL\Desktop\Shop Management\Profile\obj\Debug\Profile.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Profile\bin\Debug\Profile.exe.config
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Profile\bin\Debug\Profile.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Profile\bin\Debug\Profile.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Profile\bin\Debug\MetroFramework.Design.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Profile\bin\Debug\MetroFramework.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Profile\bin\Debug\MetroFramework.Fonts.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Profile\obj\Debug\Profile.csprojResolveAssemblyReference.cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Profile\obj\Debug\Profile.Form1.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Profile\obj\Debug\Profile.Properties.Resources.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Profile\obj\Debug\Profile.csproj.GenerateResource.Cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Profile\obj\Debug\Profile.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Profile\obj\Debug\Profile.pdb

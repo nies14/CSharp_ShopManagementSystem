@@ -1,0 +1,36 @@
+C:\Users\Nies_14\Desktop\Shop Management\Database\bin\Debug\Database.exe.config
+C:\Users\Nies_14\Desktop\Shop Management\Database\bin\Debug\Database.exe
+C:\Users\Nies_14\Desktop\Shop Management\Database\bin\Debug\Database.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Database\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nies_14\Desktop\Shop Management\Database\bin\Debug\MetroFramework.dll
+C:\Users\Nies_14\Desktop\Shop Management\Database\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nies_14\Desktop\Shop Management\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Nies_14\Desktop\Shop Management\Database\obj\Debug\Database.EmployeeAdd.resources
+C:\Users\Nies_14\Desktop\Shop Management\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\Nies_14\Desktop\Shop Management\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+C:\Users\Nies_14\Desktop\Shop Management\Database\obj\Debug\Database.exe
+C:\Users\Nies_14\Desktop\Shop Management\Database\obj\Debug\Database.pdb
+C:\Users\DELL\Desktop\Shop Management\Database\bin\Debug\Database.exe.config
+C:\Users\DELL\Desktop\Shop Management\Database\bin\Debug\Database.exe
+C:\Users\DELL\Desktop\Shop Management\Database\bin\Debug\Database.pdb
+C:\Users\DELL\Desktop\Shop Management\Database\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Desktop\Shop Management\Database\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Desktop\Shop Management\Database\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Desktop\Shop Management\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Shop Management\Database\obj\Debug\Database.EmployeeAdd.resources
+C:\Users\DELL\Desktop\Shop Management\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\DELL\Desktop\Shop Management\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Shop Management\Database\obj\Debug\Database.exe
+C:\Users\DELL\Desktop\Shop Management\Database\obj\Debug\Database.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Database\bin\Debug\Database.exe.config
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Database\bin\Debug\Database.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Database\bin\Debug\Database.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Database\bin\Debug\MetroFramework.Design.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Database\bin\Debug\MetroFramework.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Database\bin\Debug\MetroFramework.Fonts.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Database\obj\Debug\Database.EmployeeAdd.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Database\obj\Debug\Database.Properties.Resources.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Database\obj\Debug\Database.csproj.GenerateResource.Cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Database\obj\Debug\Database.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Database\obj\Debug\Database.pdb

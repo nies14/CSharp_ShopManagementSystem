@@ -1,0 +1,35 @@
+C:\Users\Nies_14\Desktop\Shop Management\Server\bin\Debug\Server.exe.config
+C:\Users\Nies_14\Desktop\Shop Management\Server\bin\Debug\Server.exe
+C:\Users\Nies_14\Desktop\Shop Management\Server\bin\Debug\Server.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nies_14\Desktop\Shop Management\Server\bin\Debug\MetroFramework.dll
+C:\Users\Nies_14\Desktop\Shop Management\Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nies_14\Desktop\Shop Management\Server\obj\Debug\Server.Chat.resources
+C:\Users\Nies_14\Desktop\Shop Management\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Nies_14\Desktop\Shop Management\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Nies_14\Desktop\Shop Management\Server\obj\Debug\Server.exe
+C:\Users\Nies_14\Desktop\Shop Management\Server\obj\Debug\Server.pdb
+C:\Users\DELL\Desktop\Shop Management\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\Desktop\Shop Management\Server\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\Shop Management\Server\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\Shop Management\Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Desktop\Shop Management\Server\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Desktop\Shop Management\Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Desktop\Shop Management\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Shop Management\Server\obj\Debug\Server.Chat.resources
+C:\Users\DELL\Desktop\Shop Management\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\Desktop\Shop Management\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Shop Management\Server\obj\Debug\Server.exe
+C:\Users\DELL\Desktop\Shop Management\Server\obj\Debug\Server.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Server\bin\Debug\Server.exe.config
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Server\bin\Debug\Server.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Server\bin\Debug\Server.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Server\bin\Debug\MetroFramework.Design.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Server\bin\Debug\MetroFramework.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Server\bin\Debug\MetroFramework.Fonts.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Server\obj\Debug\Server.Chat.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Server\obj\Debug\Server.Properties.Resources.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Server\obj\Debug\Server.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Server\obj\Debug\Server.pdb

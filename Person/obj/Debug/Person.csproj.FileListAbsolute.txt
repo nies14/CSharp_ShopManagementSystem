@@ -1,0 +1,36 @@
+C:\Users\Nies_14\Desktop\Shop Management\Person\bin\Debug\Person.exe.config
+C:\Users\Nies_14\Desktop\Shop Management\Person\bin\Debug\Person.exe
+C:\Users\Nies_14\Desktop\Shop Management\Person\bin\Debug\Person.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Person\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nies_14\Desktop\Shop Management\Person\bin\Debug\MetroFramework.dll
+C:\Users\Nies_14\Desktop\Shop Management\Person\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nies_14\Desktop\Shop Management\Person\obj\Debug\Person.Edit_Info.resources
+C:\Users\Nies_14\Desktop\Shop Management\Person\obj\Debug\Person.Properties.Resources.resources
+C:\Users\Nies_14\Desktop\Shop Management\Person\obj\Debug\Person.csproj.GenerateResource.Cache
+C:\Users\Nies_14\Desktop\Shop Management\Person\obj\Debug\Person.exe
+C:\Users\Nies_14\Desktop\Shop Management\Person\obj\Debug\Person.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Shop Management\Person\bin\Debug\Person.exe.config
+C:\Users\DELL\Desktop\Shop Management\Person\bin\Debug\Person.exe
+C:\Users\DELL\Desktop\Shop Management\Person\bin\Debug\Person.pdb
+C:\Users\DELL\Desktop\Shop Management\Person\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Desktop\Shop Management\Person\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Desktop\Shop Management\Person\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Desktop\Shop Management\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Shop Management\Person\obj\Debug\Person.Edit_Info.resources
+C:\Users\DELL\Desktop\Shop Management\Person\obj\Debug\Person.Properties.Resources.resources
+C:\Users\DELL\Desktop\Shop Management\Person\obj\Debug\Person.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Shop Management\Person\obj\Debug\Person.exe
+C:\Users\DELL\Desktop\Shop Management\Person\obj\Debug\Person.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Person\bin\Debug\Person.exe.config
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Person\bin\Debug\Person.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Person\bin\Debug\Person.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Person\bin\Debug\MetroFramework.Design.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Person\bin\Debug\MetroFramework.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Person\bin\Debug\MetroFramework.Fonts.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Person\obj\Debug\Person.Edit_Info.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Person\obj\Debug\Person.Properties.Resources.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Person\obj\Debug\Person.csproj.GenerateResource.Cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Person\obj\Debug\Person.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Person\obj\Debug\Person.pdb

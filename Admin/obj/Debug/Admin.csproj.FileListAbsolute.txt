@@ -1,0 +1,89 @@
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Admin.exe.config
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Admin.exe
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Admin.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Database.exe
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Employee_Form.exe
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\MetroFramework.dll
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Person.exe
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Product.exe
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Profile.exe
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Server.exe
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Database.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Employee_Form.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Person.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Product.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Profile.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\Server.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\Nies_14\Desktop\Shop Management\Admin\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Nies_14\Desktop\Shop Management\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Nies_14\Desktop\Shop Management\Admin\obj\Debug\Admin.AdminProfile.resources
+C:\Users\Nies_14\Desktop\Shop Management\Admin\obj\Debug\Admin.CustomerAdd.resources
+C:\Users\Nies_14\Desktop\Shop Management\Admin\obj\Debug\Admin.EditAdminInfo.resources
+C:\Users\Nies_14\Desktop\Shop Management\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\Nies_14\Desktop\Shop Management\Admin\obj\Debug\Admin.AdminRoutine.resources
+C:\Users\Nies_14\Desktop\Shop Management\Admin\obj\Debug\Admin.csproj.GenerateResource.Cache
+C:\Users\Nies_14\Desktop\Shop Management\Admin\obj\Debug\Admin.exe
+C:\Users\Nies_14\Desktop\Shop Management\Admin\obj\Debug\Admin.pdb
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Admin.exe.config
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Admin.exe
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Admin.pdb
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Database.exe
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Employee_Form.exe
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Person.exe
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Product.exe
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Profile.exe
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Database.pdb
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Employee_Form.pdb
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Person.pdb
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Product.pdb
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Profile.pdb
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\DELL\Desktop\Shop Management\Admin\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\DELL\Desktop\Shop Management\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Shop Management\Admin\obj\Debug\Admin.AdminProfile.resources
+C:\Users\DELL\Desktop\Shop Management\Admin\obj\Debug\Admin.CustomerAdd.resources
+C:\Users\DELL\Desktop\Shop Management\Admin\obj\Debug\Admin.EditAdminInfo.resources
+C:\Users\DELL\Desktop\Shop Management\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\DELL\Desktop\Shop Management\Admin\obj\Debug\Admin.AdminRoutine.resources
+C:\Users\DELL\Desktop\Shop Management\Admin\obj\Debug\Admin.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Shop Management\Admin\obj\Debug\Admin.exe
+C:\Users\DELL\Desktop\Shop Management\Admin\obj\Debug\Admin.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Admin.exe.config
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Admin.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Admin.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Database.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Employee_Form.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\MetroFramework.Design.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\MetroFramework.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\MetroFramework.Fonts.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Person.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Product.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Profile.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Server.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Database.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Employee_Form.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Person.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Product.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Profile.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\Server.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\bin\Debug\DevComponents.DotNetBar2.xml
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\obj\Debug\Admin.AdminProfile.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\obj\Debug\Admin.CustomerAdd.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\obj\Debug\Admin.EditAdminInfo.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\obj\Debug\Admin.Properties.Resources.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\obj\Debug\Admin.AdminRoutine.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\obj\Debug\Admin.csproj.GenerateResource.Cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\obj\Debug\Admin.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Admin\obj\Debug\Admin.pdb

@@ -1,0 +1,60 @@
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\Order.exe.config
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\Order.exe
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\Order.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\Employee_Form.exe
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\MetroFramework.dll
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\Profile.exe
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\Product.exe
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\Server.exe
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\Employee_Form.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\Profile.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\Product.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Order\bin\Debug\Server.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Order\obj\Debug\Order.csprojResolveAssemblyReference.cache
+C:\Users\Nies_14\Desktop\Shop Management\Order\obj\Debug\Order.OrderPage.resources
+C:\Users\Nies_14\Desktop\Shop Management\Order\obj\Debug\Order.Properties.Resources.resources
+C:\Users\Nies_14\Desktop\Shop Management\Order\obj\Debug\Order.csproj.GenerateResource.Cache
+C:\Users\Nies_14\Desktop\Shop Management\Order\obj\Debug\Order.exe
+C:\Users\Nies_14\Desktop\Shop Management\Order\obj\Debug\Order.pdb
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\Order.exe.config
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\Order.exe
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\Order.pdb
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\Employee_Form.exe
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\Profile.exe
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\Product.exe
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\Employee_Form.pdb
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\Profile.pdb
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\Product.pdb
+C:\Users\DELL\Desktop\Shop Management\Order\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\Shop Management\Order\obj\Debug\Order.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Shop Management\Order\obj\Debug\Order.OrderPage.resources
+C:\Users\DELL\Desktop\Shop Management\Order\obj\Debug\Order.Properties.Resources.resources
+C:\Users\DELL\Desktop\Shop Management\Order\obj\Debug\Order.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Shop Management\Order\obj\Debug\Order.exe
+C:\Users\DELL\Desktop\Shop Management\Order\obj\Debug\Order.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\Order.exe.config
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\Order.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\Order.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\Employee_Form.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\MetroFramework.Design.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\MetroFramework.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\MetroFramework.Fonts.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\Profile.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\Product.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\Server.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\Employee_Form.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\Profile.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\Product.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\bin\Debug\Server.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\obj\Debug\Order.csprojResolveAssemblyReference.cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\obj\Debug\Order.OrderPage.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\obj\Debug\Order.Properties.Resources.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\obj\Debug\Order.csproj.GenerateResource.Cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\obj\Debug\Order.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Order\obj\Debug\Order.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Shop_Management.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Col" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">17, 17, 17</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,78 @@
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Customer.exe.config
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Customer.exe
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Customer.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Employee_Form.exe
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\MetroFramework.dll
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Order.exe
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Person.exe
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Profile.exe
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Product.exe
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Server.exe
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Employee_Form.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Order.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Person.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Profile.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Product.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Customer\bin\Debug\Server.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Users\Nies_14\Desktop\Shop Management\Customer\obj\Debug\Customer.CustomerHomePage.resources
+C:\Users\Nies_14\Desktop\Shop Management\Customer\obj\Debug\Customer.Profile.resources
+C:\Users\Nies_14\Desktop\Shop Management\Customer\obj\Debug\Customer.Properties.Resources.resources
+C:\Users\Nies_14\Desktop\Shop Management\Customer\obj\Debug\Customer.SignUpForm.resources
+C:\Users\Nies_14\Desktop\Shop Management\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+C:\Users\Nies_14\Desktop\Shop Management\Customer\obj\Debug\Customer.exe
+C:\Users\Nies_14\Desktop\Shop Management\Customer\obj\Debug\Customer.pdb
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Customer.exe.config
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Customer.exe
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Customer.pdb
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Employee_Form.exe
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Order.exe
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Person.exe
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Profile.exe
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Product.exe
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Server.exe
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Employee_Form.pdb
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Order.pdb
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Person.pdb
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Profile.pdb
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Product.pdb
+C:\Users\DELL\Desktop\Shop Management\Customer\bin\Debug\Server.pdb
+C:\Users\DELL\Desktop\Shop Management\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Shop Management\Customer\obj\Debug\Customer.CustomerHomePage.resources
+C:\Users\DELL\Desktop\Shop Management\Customer\obj\Debug\Customer.Profile.resources
+C:\Users\DELL\Desktop\Shop Management\Customer\obj\Debug\Customer.Properties.Resources.resources
+C:\Users\DELL\Desktop\Shop Management\Customer\obj\Debug\Customer.SignUpForm.resources
+C:\Users\DELL\Desktop\Shop Management\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Shop Management\Customer\obj\Debug\Customer.exe
+C:\Users\DELL\Desktop\Shop Management\Customer\obj\Debug\Customer.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Customer.exe.config
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Customer.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Customer.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Employee_Form.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\MetroFramework.Design.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\MetroFramework.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\MetroFramework.Fonts.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Order.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Person.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Profile.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Product.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Server.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Employee_Form.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Order.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Person.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Profile.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Product.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\bin\Debug\Server.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\obj\Debug\Customer.CustomerHomePage.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\obj\Debug\Customer.Profile.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\obj\Debug\Customer.Properties.Resources.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\obj\Debug\Customer.SignUpForm.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\obj\Debug\Customer.csproj.GenerateResource.Cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\obj\Debug\Customer.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Customer\obj\Debug\Customer.pdb

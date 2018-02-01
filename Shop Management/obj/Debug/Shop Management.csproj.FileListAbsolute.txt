@@ -1,0 +1,14 @@
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\bin\Debug\Shop Management.exe.config
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\bin\Debug\Shop Management.exe
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\bin\Debug\Shop Management.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\bin\Debug\MetroFramework.dll
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\obj\Debug\Shop_Management.HomePage.resources
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\obj\Debug\Shop_Management.Properties.Resources.resources
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\obj\Debug\Shop Management.csproj.GenerateResource.Cache
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\obj\Debug\Shop Management.exe
+C:\Users\Nies_14\Desktop\Shop Management\Shop Management\obj\Debug\Shop Management.pdb

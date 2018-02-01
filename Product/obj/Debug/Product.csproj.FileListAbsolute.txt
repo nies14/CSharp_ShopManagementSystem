@@ -1,0 +1,36 @@
+C:\Users\Nies_14\Desktop\Shop Management\Product\bin\Debug\Product.exe.config
+C:\Users\Nies_14\Desktop\Shop Management\Product\bin\Debug\Product.exe
+C:\Users\Nies_14\Desktop\Shop Management\Product\bin\Debug\Product.pdb
+C:\Users\Nies_14\Desktop\Shop Management\Product\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nies_14\Desktop\Shop Management\Product\bin\Debug\MetroFramework.dll
+C:\Users\Nies_14\Desktop\Shop Management\Product\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Nies_14\Desktop\Shop Management\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+C:\Users\Nies_14\Desktop\Shop Management\Product\obj\Debug\Product.ProductList.resources
+C:\Users\Nies_14\Desktop\Shop Management\Product\obj\Debug\Product.Properties.Resources.resources
+C:\Users\Nies_14\Desktop\Shop Management\Product\obj\Debug\Product.csproj.GenerateResource.Cache
+C:\Users\Nies_14\Desktop\Shop Management\Product\obj\Debug\Product.exe
+C:\Users\Nies_14\Desktop\Shop Management\Product\obj\Debug\Product.pdb
+C:\Users\DELL\Desktop\Shop Management\Product\bin\Debug\Product.exe.config
+C:\Users\DELL\Desktop\Shop Management\Product\bin\Debug\Product.exe
+C:\Users\DELL\Desktop\Shop Management\Product\bin\Debug\Product.pdb
+C:\Users\DELL\Desktop\Shop Management\Product\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Desktop\Shop Management\Product\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Desktop\Shop Management\Product\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Desktop\Shop Management\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Shop Management\Product\obj\Debug\Product.ProductList.resources
+C:\Users\DELL\Desktop\Shop Management\Product\obj\Debug\Product.Properties.Resources.resources
+C:\Users\DELL\Desktop\Shop Management\Product\obj\Debug\Product.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Shop Management\Product\obj\Debug\Product.exe
+C:\Users\DELL\Desktop\Shop Management\Product\obj\Debug\Product.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Product\bin\Debug\Product.exe.config
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Product\bin\Debug\Product.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Product\bin\Debug\Product.pdb
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Product\bin\Debug\MetroFramework.Design.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Product\bin\Debug\MetroFramework.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Product\bin\Debug\MetroFramework.Fonts.dll
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Product\obj\Debug\Product.ProductList.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Product\obj\Debug\Product.Properties.Resources.resources
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Product\obj\Debug\Product.csproj.GenerateResource.Cache
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Product\obj\Debug\Product.exe
+G:\Varsity Files\Semester 8\Final Term\C#\Project\Shop Management\Product\obj\Debug\Product.pdb
